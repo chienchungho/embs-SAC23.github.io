@@ -1,6 +1,6 @@
-37th ACM/SIGAPP SAC Symposium on Applied Computing
-       April 25 -- April 29, 2022
-           Brno, Czech Republic
+38th ACM/SIGAPP SAC Symposium on Applied Computing
+          March 27 - April 02, 2023
+              Tallinn, Estonia
 
                  T r a c k    EMBS 
                     
@@ -9,19 +9,19 @@
                 New Perspectives 
  for Hardware, System Software, and Applications
 
-      https://www.cs.ccu.edu.tw/~ccho/sac2022
+      https://embs-sac.github.io/sac2023/
 
 
               Conference (main) page
 
-        http://www.sigapp.org/sac/sac2022/
+        http://www.sigapp.org/sac/sac2023/
 
 *------------------------------------------------*
 IMPORTANT DATES
 
-Full paper submission:    October   15, 2021.
-Author notification:      December  10, 2021.
-Camera ready paper:       December  21, 2021.
+Full paper submission:    October   11, 2022.
+Author notification:      November  19, 2022.
+Camera ready paper:       December  06, 2022.
 ________________________________________________________
 
 High performance embedded computing has recently become more and more present in devices used in everyday life. A wide variety of applications, from consumer electronics to biomedical systems, require building up powerful yet cheap embedded devices. In this context, embedded software has turned out to be more and more complex, posing new challenging issues. The adoption of further flexible programming paradigms/architectures is becoming almost mandatory. Nonetheless, even nowadays the development of embedded systems must rely on a tight coupling of hardware and software components. Moreover, the market pressure calls for the employment of new methodologies for shortening the development time, and for driving the evolution of existing products. New efficient solutions to problems emerging in this setting can be put into action by means of a joint effort of academia and industry.
@@ -64,9 +64,9 @@ The focus of this conference track is on the application of both novel and well-
     Important dates   (PAPERS & SRC ABSTRACTS)
 *-----------------------------------------------*
 
-Full paper submission:    October   15, 2021.
-Author notification:      December  10, 2021.
-Camera ready paper:       December  21, 2021.
+Full paper submission:    October   11, 2022.
+Author notification:      November  19, 2022.
+Camera ready paper:       December  06, 2022.
 
 *-----------------------------------------------*
                Paper Submissions
@@ -94,6 +94,6 @@ Please note SRCs and regular papers must be submitted at different pages of the 
 *------------------------------------------*
 
 Jalil  Boukhobza - ENSTA-Bretagne, Lab-STICC lab - France 
-Hung-Wei Tseng - University of California, Riverside - US
+Marco D. Santambrogio - Politecnico di Milano - Italy
 Chien-Chung Ho - National Cheng Kung University - Taiwan
 
